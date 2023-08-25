@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//Navdeshsinghsaini.github.io/imdb/static/css/main.85bd1841.css",
+    "main.js": "//Navdeshsinghsaini.github.io/imdb/static/js/main.0cfbbea2.js",
+    "index.html": "//Navdeshsinghsaini.github.io/imdb/index.html",
+    "main.85bd1841.css.map": "//Navdeshsinghsaini.github.io/imdb/static/css/main.85bd1841.css.map",
+    "main.0cfbbea2.js.map": "//Navdeshsinghsaini.github.io/imdb/static/js/main.0cfbbea2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85bd1841.css",
+    "static/js/main.0cfbbea2.js"
+  ]
+}
